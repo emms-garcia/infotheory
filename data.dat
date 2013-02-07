@@ -1,0 +1,13 @@
+#p q01 q10 (probabilidad de generar 1, probabilidad de que 0 se transmita como uno, probabilidad de que 1 se transmita como cero)
+0.5 0.2 0.2
+0.5 0.4 0.4
+0.5 0.6 0.6
+0.5 0.8 0.8
+0.5 0.2 0.2
+0.5 0.4 0.4
+0.5 0.6 0.6
+0.5 0.8 0.8
+0.2 0.1 0.2
+0.2 0.1 0.4
+0.2 0.1 0.6
+0.2 0.1 0.8
